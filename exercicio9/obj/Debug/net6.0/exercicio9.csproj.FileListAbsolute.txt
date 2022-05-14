@@ -1,0 +1,15 @@
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\bin\Debug\net6.0\exercicio9.exe
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\bin\Debug\net6.0\exercicio9.deps.json
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\bin\Debug\net6.0\exercicio9.runtimeconfig.json
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\bin\Debug\net6.0\exercicio9.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\bin\Debug\net6.0\exercicio9.pdb
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\refint\exercicio9.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.pdb
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\exercicio9.genruntimeconfig.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\ETEC\DS\1º módulo\PA\Lista de Exercícios C# - Vetor Matriz\exercicio9\obj\Debug\net6.0\ref\exercicio9.dll
